@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Html Elements</title>
+</head>
+<body>
+    <table>
+        <tr>
+        <td>Nr.</td> <td>Nxenesi</td> <td>Suksesi</td>
+        </tr>
+        <tr>
+        <td>1</td> <td>Greta Sopa</td> <td>Shkelqyeshem</td>
+        </tr>
+    </table>
+</body>
+</html>
