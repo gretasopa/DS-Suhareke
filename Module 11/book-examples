@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>title</title>
+    <link rel="stylesheet" href="external.css">
+</head>
+<body>
+  inline-  <p style="background-color: blue;color: white; padding: 20px; class="slider-paragraph" ">Une jam Greta</p>
+    internal- <style> </style>
+</body>
+</html>
