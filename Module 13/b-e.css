@@ -1,0 +1,13 @@
+.module13 {
+    list-style-type: square;
+}
+li{border-bottom: 2px solid red;}
+    list-style-type; upper-roman;
+}
+.td,th{
+border: 1px solid;
+}
+table tr:nth-child(odd){
+    background-color:color;
+    color:red
+}
