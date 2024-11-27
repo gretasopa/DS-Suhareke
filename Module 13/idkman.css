@@ -1,0 +1,17 @@
+ul{ 
+    list-style-type: upper-alpha;
+    border:2px dotted pink;
+    color: bisque;
+    font-family:cursive;
+    list-style-image: url(./2.avif);
+    list-style-position: inside;
+
+}
+ul li{border:1px solid rgb(red, green, blue)}
+ol{
+    border:02px dotted  pink;
+    color:(srgb red green blue);
+    font-family:cursive;
+}
+.ol{list-style-type: 1;}
+.table{border: 1px solid;}
