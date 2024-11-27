@@ -26,3 +26,25 @@
     font-size: 570PX !important;
     
 }
+a{
+    color: pink;
+}
+a:link{
+    text-decoration: dotted;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color:aqua
+}
+a:active{
+    color: black;
+}
+.header{
+    background-color: blanchedalmond;
+    color: brown;
+    letter-spacing: 3px;
+    text-align: center;
+    text-decoration: solid;
+}

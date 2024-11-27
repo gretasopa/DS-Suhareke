@@ -1,0 +1,12 @@
+.header{
+    background-color: blanchedalmond;
+    color: brown;
+    letter-spacing: 3px;
+    text-align: center;
+    text-decoration: solid;
+    font-family: italika;
+}
+@font-face {
+    font-family: italika ;
+    src: url(url(../fonts/Roboto-ThinItalic.ttf));
+}
