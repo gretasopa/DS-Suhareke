@@ -14,4 +14,16 @@ ol{
     font-family:cursive;
 }
 .ol{list-style-type: 1;}
-.table{border: 1px solid;}
+table tbody>tr:nth-child(odd){
+    background-color:rgb(199, 217, 241);
+   color:black;
+   }
+   table tbody>tr:nth-child(even){
+       background-color:rgb(180, 245, 223);
+       color:black;
+   }
+   td,th {border:solid 2px ;}
+   div{ width: 300px;
+   height:200px;
+   background-color: rgb(236, 4, 178);
+   overflow:scroll;}
