@@ -1,0 +1,17 @@
+
+        .style-paragraph{background-color: blue;
+        padding:20px;
+    color:white;
+    border: 2px solid darkblue}
+    .style{color: blueviolet;
+    background-color: aqua;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+width: 70px;}
+.border.solid{
+    color: blueviolet;
+    background-color: aqua;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+width: 70px;
+border: 2px solid darkblue;}
+
+    

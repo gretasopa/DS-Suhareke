@@ -1,0 +1,23 @@
+.textstyle { font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:green;
+letter-spacing:5px;
+word-spacing:15px;
+text-decoration:wavy;
+text-align:center;
+font-size:60px;}
+@font-face{
+   font-family: zana ;
+   src:url(./fonts/Sevillana-Regular.ttf)
+}
+
+    .era{
+    font-family: zana;
+    color: crimson;
+    font-size: 16px;
+    font-weight: 300;
+    }
+    a{color: aqua;}
+    a:link{color: black;}
+a:visited{color: beige}
+a:hover{color: aquamarine;}
+a:active{color: blue;}
