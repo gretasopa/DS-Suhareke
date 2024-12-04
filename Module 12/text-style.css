@@ -1,0 +1,50 @@
+.text-style{
+    color: green;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    font-family: "italika"
+    
+}
+.text{
+    color: red;
+    letter-spacing: 2px;
+    text-decoration: overline;
+    text-decoration: underline;
+    text-align: center;
+    
+    
+}
+@font-face{
+    font-family:"italika";
+    src: url(./fonts/EduAUVICWANTArrows-SemiBold.ttf)
+}
+.material-icons{
+    color: red;
+    font-size: 570PX !important;
+    
+}
+a{
+    color: pink;
+}
+a:link{
+    text-decoration: dotted;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color:aqua
+}
+a:active{
+    color: black;
+}
+.header{
+    background-color: blanchedalmond;
+    color: brown;
+    letter-spacing: 3px;
+    text-align: center;
+    text-decoration: solid;
+}
