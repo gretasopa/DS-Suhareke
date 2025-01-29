@@ -1,0 +1,26 @@
+article >div>p{
+    color:azure;
+    background-color: beige;
+}
+article> p:first-child{
+    color:blueviolet;
+    background-color: blue;
+}
+article+p:first-of-type{
+    color: black;
+    background-color: rgb(255, 102, 0);
+}
+article+p+p{
+    color: aqua;
+    background-color: blueviolet;
+}
+input:focus{ background-color:blue;
+  }
+p::first-letter{font-weight: bold;}
+p::first-line{font-style: italic;}
+p::after{content: url(https://hairpharma.al/cdn/shop/products/13318131-4865011203611010.jpg?v=1684705689&width=1920);
+    width: 20px;
+font-size: 50px;}
+p::before{font}
+p::selection{}
+p{opacity: 0.1;}
