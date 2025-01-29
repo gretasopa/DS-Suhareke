@@ -1,0 +1,20 @@
+.flex-easy{
+    display: flex;
+    background-color: aquamarine;
+    flex-direction: row;
+}
+.flex-easy > div{
+    padding: 15px;
+    margin: 10px;
+    color: pink;
+    border: 2px solid green;
+}
+.flex-easy > div:nth-child(1){
+
+}
+.flex-easy > div:nth-child(2){
+    
+}
+.flex-easy > div:nth-child(3){
+    
+}
