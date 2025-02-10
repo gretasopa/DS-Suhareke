@@ -1,0 +1,23 @@
+.flex-easy{
+    display: flex;
+    background-color: aquamarine;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+}
+.flex-easy > div{
+    padding: 15px;
+    margin: 10px;
+    color: black;
+    border: 2px solid green;
+}
+.flex-easy > div:nth-child(1){
+    align-self: center; background-color: pink;
+
+}
+.flex-easy > div:nth-child(2){
+    align-self: center; background-color: blue;
+}
+.flex-easy > div:nth-child(3){
+    align-items: center; background-color: yellow;
+}

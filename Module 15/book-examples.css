@@ -1,0 +1,44 @@
+.static{
+    border: 1px solid red;
+    width: 300px;
+    height: 300px;
+    position: static;
+    padding: 10px;
+}
+.relative{
+    border: 1px solid red;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    padding: 10px;
+    margin-left: 500px;
+    margin-top: 500px;
+}
+.absolute{
+    border: 1px solid pink;
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    padding: 10px;
+    left: calc(50% - 175px);
+    top: calc(50% - 175px) ;
+    
+}
+.sticky{
+    border: 1px solid green;
+    width: 200px;
+    height: 200px;
+    position: sticky;
+    padding: 10px;
+    left: 200px;
+    top: 50px;
+}
+.fixed{
+    border: 1px solid red;
+    width: 70px;
+    height: 30px;
+    position: fixed;
+    padding: 10px;
+    left: 200px;
+    top: 50px;
+}

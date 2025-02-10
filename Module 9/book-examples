@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" initial-scale="1"></meta>
+    <title>title</title>
+</head>
+<body>
+        <source media="(max-width=775px)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fictkosovo.eu%2Fdigital-school%2F&psig=AOvVaw21N3XrylLW8tulhSYJ9Rj0&ust=1731001904172000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjwk9-iyIkDFQAAAAAdAAAAABAE">
+
+        <source media="(max-width=1200px)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdigitalschool.edu.mk%2F&psig=AOvVaw21N3XrylLW8tulhSYJ9Rj0&ust=1731001904172000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjwk9-iyIkDFQAAAAAdAAAAABAI">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fdigitalschoolmk%2F%3Flocale%3Dar_AR&psig=AOvVaw21N3XrylLW8tulhSYJ9Rj0&ust=1731001904172000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjwk9-iyIkDFQAAAAAdAAAAABAS">
+    </picture>
+</body>
+</html>
