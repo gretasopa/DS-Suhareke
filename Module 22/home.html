@@ -5,36 +5,66 @@
     <title>Ascom-IPKO</title>
     <style>
         #section-1{
-            display: flex;
-            background-image: ascom-background;
+            display: block;
+            min-height: 745px;
+color: white            ;
+background-image: url(background.avif); 
+background-repeat: no-repeat;
+background-size: cover;
+min-width: 745px;
         }
-        .ipko>img{
+        .ascom {
+           margin-left: 3%;
+           margin-top: auto;
             height: 100px;
             width: auto;
-
+            font-size: 65px;
+            display: flex;
+            font-weight: bold;
+            padding: 20px;
         }
         nav ul {
             display: flex;
-            flex-direction: row;
-            list-style: none;
-            justify-content: flex-end;
+    justify-content: flex-end; 
+    align-items: center;
+    padding: 20px;
+    width: 90%;
+    position: fixed; 
+    top: 0;
+    left: 0;
+    gap: 20px;
+    list-style: none;
+    font-size: 20px;
         }
+        nav ul li a{
+            color: white;
+           text-decoration: none;
+        }
+        .h1{
+            padding: 10%;
+        font-size: 40px;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        }
+        
     </style>
 </head>
 <body>
     <section id="section-1">
-        <div class="ipko">
-            <img src="ipko.png">
+        
+        <div class="ascom">
+           Ascom
         </div>
    
         <nav>
          <ul>
             <li><a href="home">Home</a></li>
             <li><a href="services">Services</a></li>
-            <li><a href="about">About</a></li>
+            <li><a href="about">About us</a></li>
         </ul>
     </nav>
-    <a href="#" class="btn"></a>
+    <h1 class="h1"> Lidhim teknologjinë, ndërtojmë të ardhmen!</h1>
 </section>
 </body>
 </html>
