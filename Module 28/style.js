@@ -1,3 +1,3 @@
-v_button.onclick=function|(
-    awsd
-)
+btn1.onclick=function(){
+    txt1.style.color="red";
+}
